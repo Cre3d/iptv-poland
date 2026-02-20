@@ -1,167 +1,167 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl" tvg-name="Strongman Champions League" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="",Strongman Champions League
-https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMazowsze.pl" tvg-name="TV Mazowsze" tvg-logo="https://zapodaj.net/thumbs/821c90c93eee6.jpg" group-title="entertainment",TV Mazowsze
-https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="",TVP Polonia
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV" tvg-logo="https://i.postimg.cc/G2H77CT2/4funtv.png" group-title="music",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.postimg.cc/Bvh7B66k/4funkids.png" group-title="kids",4 Fun Kids
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmboxextra_hd1
-#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-name="dlaCiebie.tv" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="general",dlaCiebie.tv
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl" tvg-name="Strongman Champions League" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="",Strongman Champions League
+http://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMazowsze.pl" tvg-name="TV Mazowsze" tvg-logo="http://zapodaj.net/thumbs/821c90c93eee6.jpg" group-title="entertainment",TV Mazowsze
+http://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="",TVP Polonia
+http://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV" tvg-logo="http://i.postimg.cc/G2H77CT2/4funtv.png" group-title="music",4 Fun TV
+http://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="http://i.postimg.cc/Bvh7B66k/4funkids.png" group-title="kids",4 Fun Kids
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmboxextra_hd1
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-name="dlaCiebie.tv" tvg-logo="http://i.imgur.com/Tf32BJa.png" group-title="general",dlaCiebie.tv
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="general",NewTV
-https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" tvg-logo="https://i.postimg.cc/44KQ54H9/tvasta.png" group-title="general",TV ASTA
-https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="general;news",TVK Stella
-https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="",TV Kujawy
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" tvg-logo="http://i.imgur.com/fH8rKs3.png" group-title="general",NewTV
+http://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" tvg-logo="http://i.postimg.cc/44KQ54H9/tvasta.png" group-title="general",TV ASTA
+http://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" tvg-logo="http://www.tvkstella.pl/img/poster.png" group-title="general;news",TVK Stella
+http://stream.tvkstella.pl/stella/stella.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="http://i.imgur.com/dGP7cIW.png" group-title="",TV Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-name="TVP World" tvg-logo="https://i.postimg.cc/768kh7Xw/tvpworld.png" group-title="news",TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 tvg-id="Mazowszetv.pl" tvg-name="Mazowsze.tv" tvg-logo="https://i.ibb.co/0j2DbB1z/m6-1.jpg" group-title="entertainment",Mazowsze.tv
-https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldBilliards.pl" tvg-name="World Billiards" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" group-title="",World Billiards
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="https://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="",Puls 2
-https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-name="TVP World" tvg-logo="http://i.postimg.cc/768kh7Xw/tvpworld.png" group-title="news",TVP World
+http://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-id="Mazowszetv.pl" tvg-name="Mazowsze.tv" tvg-logo="http://i.ibb.co/0j2DbB1z/m6-1.jpg" group-title="entertainment",Mazowsze.tv
+http://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldBilliards.pl" tvg-name="World Billiards" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" group-title="",World Billiards
+http://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="http://i.postimg.cc/mk8Wt6gM/puls2.png" group-title="",Puls 2
+http://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="general",Dr G Medical Examiner
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
-#EXTINF:-1 tvg-id="Grjngo.pl" tvg-name="Grjngo" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="",Grjngo
-https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-id="Grjngo.pl" tvg-name="Grjngo" tvg-logo="http://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="",Grjngo
+http://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 tvg-id="TopMillionDollarAgent.pl" tvg-name="Top Million Dollar Agent" tvg-logo="" group-title="comedy",Top Million Dollar Agent
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="https://i.postimg.cc/YSvB28Hv/tvp1.png" group-title="",TVP1
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="entertainment",Radiowa Czworka
-https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica" tvg-logo="https://i.postimg.cc/Lsh3RV9Q/13ulica.png" group-title="entertainment",13 Ulica
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=nowa_tvhv
-#EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-name="Hard Knocks Fighting Championship" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="",Hard Knocks Fighting Championship
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
-#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="series;movies",Paramount Network
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportta
-#EXTINF:-1 tvg-id="MonsterJam.pl" tvg-name="Monster Jam" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="",Monster Jam
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="http://i.postimg.cc/YSvB28Hv/tvp1.png" group-title="",TVP1
+http://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" tvg-logo="http://i.imgur.com/VAtxF7k.png" group-title="entertainment",Radiowa Czworka
+http://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica" tvg-logo="http://i.postimg.cc/Lsh3RV9Q/13ulica.png" group-title="entertainment",13 Ulica
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=nowa_tvhv
+#EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-name="Hard Knocks Fighting Championship" tvg-logo="http://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="",Hard Knocks Fighting Championship
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="Paramount Network" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="series;movies",Paramount Network
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportta
+#EXTINF:-1 tvg-id="MonsterJam.pl" tvg-name="Monster Jam" tvg-logo="http://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="",Monster Jam
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
-#EXTINF:-1 tvg-id="PFLMMA.pl" tvg-name="PFL MMA" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" group-title="",PFL MMA
-https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="",Viasat Explore Classic
-https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="PFLMMA.pl" tvg-name="PFL MMA" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" group-title="",PFL MMA
+http://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="",Viasat Explore Classic
+http://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-name="RACER International" tvg-logo="" group-title="sports",RACER International
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="animation;kids",Cartoon Classics
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
-#EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="",Bigtime
-https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
-#EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="",Car City Adventures
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
-#EXTINF:-1 tvg-id="SzlagierTV.pl" tvg-name="Szlagier TV" tvg-logo="https://i.postimg.cc/NFYHkbvp/szlagiertv.png" group-title="general",Szlagier TV
-https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="religious",EWTN Poland
-https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/512px-Polsat_Play_2021_gradient.svg.png" group-title="",Polsat Play
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=polsatplay_hd1
-#EXTINF:-1 tvg-id="Royalworld.pl" tvg-name="Royalworld" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" group-title="",Royalworld
-https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
-#EXTINF:-1 tvg-id="Moconomy.pl" tvg-name="Moconomy" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="",Moconomy
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl" tvg-name="BTB Music" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" group-title="music",BTB Music
-https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="comedy",Comedy Central
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedycentralpl
-#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="general",Telewizja Regionalna Zary
-https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
-#EXTINF:-1 tvg-id="TheReuters60.pl" tvg-name="The Reuters 60" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/684341c67335374e8d50d1df/images/SQUARE/1080_logo_dtv_logo.jpg" group-title="news",The Reuters 60
-https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8?ads.vf=bQyhmgl-yf0
-#EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="",TV Torun
+http://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="animation;kids",Cartoon Classics
+http://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW
+#EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="",Bigtime
+http://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="",Car City Adventures
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
+#EXTINF:-1 tvg-id="SzlagierTV.pl" tvg-name="Szlagier TV" tvg-logo="http://i.postimg.cc/NFYHkbvp/szlagiertv.png" group-title="general",Szlagier TV
+http://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="http://i.imgur.com/VtKYELf.png" group-title="religious",EWTN Poland
+http://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/512px-Polsat_Play_2021_gradient.svg.png" group-title="",Polsat Play
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=polsatplay_hd1
+#EXTINF:-1 tvg-id="Royalworld.pl" tvg-name="Royalworld" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" group-title="",Royalworld
+http://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:-1 tvg-id="Moconomy.pl" tvg-name="Moconomy" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="",Moconomy
+http://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-id="BTBMusic.pl" tvg-name="BTB Music" tvg-logo="http://btb.j00r.us/images/logo_BTBMusic.webp" group-title="music",BTB Music
+http://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="comedy",Comedy Central
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedycentralpl
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="http://i.imgur.com/FB9H8DO.png" group-title="general",Telewizja Regionalna Zary
+http://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+#EXTINF:-1 tvg-id="TheReuters60.pl" tvg-name="The Reuters 60" tvg-logo="http://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/684341c67335374e8d50d1df/images/SQUARE/1080_logo_dtv_logo.jpg" group-title="news",The Reuters 60
+http://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8?ads.vf=bQyhmgl-yf0
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" tvg-logo="http://i.imgur.com/ZJ0yDWI.png" group-title="",TV Torun
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" group-title="music",Radio RAM
-https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" tvg-logo="http://i.ibb.co/LXbchP5q/logo-1.png" group-title="music",Radio RAM
+http://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 #EXTINF:-1 tvg-id="Jail.pl" tvg-name="Jail" tvg-logo="" group-title="comedy",Jail
-https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="",TBN Polska
-https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://i.imgur.com/6GOWgtE.png" group-title="comedy",Polsat Comedy Central Extra
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedyfamily_sd
-#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="business",Telewizja Biznesowa
-https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="TelewizjaiTTV.pl" tvg-name="Telewizja iTTV" tvg-logo="https://www.ittv.pl/media/images/ittv-logo.png" group-title="",Telewizja iTTV
-https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="general",Telewizja Jaslo
-https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" tvg-logo="https://i.postimg.cc/jdXd18cN/tvpkultura.png" group-title="",TVP Kultura
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=fox_comedy24tv
-#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="general",Telewizja Luban
+http://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="http://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="",TBN Polska
+http://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="Polsat Comedy Central Extra" tvg-logo="http://i.imgur.com/6GOWgtE.png" group-title="comedy",Polsat Comedy Central Extra
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedyfamily_sd
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" tvg-logo="http://i.imgur.com/XC7i7ZL.png" group-title="business",Telewizja Biznesowa
+http://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaiTTV.pl" tvg-name="Telewizja iTTV" tvg-logo="http://www.ittv.pl/media/images/ittv-logo.png" group-title="",Telewizja iTTV
+http://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo" tvg-logo="http://i.imgur.com/nV2jQQP.png" group-title="general",Telewizja Jaslo
+http://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" tvg-logo="http://i.postimg.cc/jdXd18cN/tvpkultura.png" group-title="",TVP Kultura
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=fox_comedy24tv
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban" tvg-logo="http://i.imgur.com/t2BGp0G.jpeg" group-title="general",Telewizja Luban
 http://stream.herissons.cloud/hls/tvluban.m3u8
-#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="",W Polsce PL
-https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
-#EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="",Top Movies Polska
-https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="https://i.postimg.cc/85dRbkTM/eskatv.png" group-title="music",Eska TV
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=eska__tvmusic
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="",TVP Info
-https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" tvg-logo="https://i.postimg.cc/k4yc03pK/tvpabc.png" group-title="kids",TVP ABC
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=tv4_
-#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="",Twoja.TV
-https://stream.twoja.tv/ttv_hls/live.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="https://i.postimg.cc/kgG9p7B3/tvpsport.png" group-title="sports",TVP Sport
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportTVP_channeed
-#EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="",WP TV
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=wp_hd
-#EXTINF:-1 tvg-id="ZNation.pl" tvg-name="Z Nation" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="",Z Nation
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
-#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" tvg-logo="http://i.imgur.com/HQ8UyhL.png" group-title="",W Polsce PL
+http://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="",Top Movies Polska
+http://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="http://i.postimg.cc/85dRbkTM/eskatv.png" group-title="music",Eska TV
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=eska__tvmusic
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="",TVP Info
+http://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" tvg-logo="http://i.postimg.cc/k4yc03pK/tvpabc.png" group-title="kids",TVP ABC
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=tv4_
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" tvg-logo="http://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="",Twoja.TV
+http://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="http://i.postimg.cc/kgG9p7B3/tvpsport.png" group-title="sports",TVP Sport
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportTVP_channeed
+#EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" tvg-logo="http://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="",WP TV
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=wp_hd
+#EXTINF:-1 tvg-id="ZNation.pl" tvg-name="Z Nation" tvg-logo="http://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="",Z Nation
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec" tvg-logo="http://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://i.postimg.cc/CK83350t/tvrepublika.png" group-title="",TV Republika
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=jtv6
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="http://i.postimg.cc/CK83350t/tvrepublika.png" group-title="",TV Republika
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=jtv6
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-name="American Crime Channel" tvg-logo="" group-title="entertainment",American Crime Channel
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="",Sfera TV
-https://stream.sferatv.pl/sferatvlive/live.m3u8
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="https://i.postimg.cc/qMf5xw2d/kinopolska.png" group-title="movies",Kino Polska
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=kino_polska_tv
-#EXTINF:-1 tvg-id="ShadesofBlack.pl" tvg-name="Shades of Black" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg" group-title="",Shades of Black
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" tvg-logo="http://i.imgur.com/aK7xfKi.png" group-title="",Sfera TV
+http://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="http://i.postimg.cc/qMf5xw2d/kinopolska.png" group-title="movies",Kino Polska
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=kino_polska_tv
+#EXTINF:-1 tvg-id="ShadesofBlack.pl" tvg-name="Shades of Black" tvg-logo="http://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg" group-title="",Shades of Black
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
-#EXTINF:-1 tvg-id="SuperExpressTV.pl" tvg-name="Super Express TV" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="news",Super Express TV
-https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-name="Telewizja Torun" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="",Telewizja Torun
+#EXTINF:-1 tvg-id="SuperExpressTV.pl" tvg-name="Super Express TV" tvg-logo="http://i.imgur.com/HuIsALV.png" group-title="news",Super Express TV
+http://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-name="Telewizja Torun" tvg-logo="http://i.imgur.com/UNwzRHN.png" group-title="",Telewizja Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="Kino TV" tvg-logo="https://i.postimg.cc/9QbgVjKW/kinotv.png" group-title="movies",Kino TV
-https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmbox_kinotv
-#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" group-title="",TNA Wrestling Channel
+#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="Kino TV" tvg-logo="http://i.postimg.cc/9QbgVjKW/kinotv.png" group-title="movies",Kino TV
+http://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmbox_kinotv
+#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" group-title="",TNA Wrestling Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
-#EXTINF:-1 tvg-id="TOPBarca.pl" tvg-name="TOP Barca" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="",TOP Barca
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-name="Buzzfeed Unsolved" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="",Buzzfeed Unsolved
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
-#EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24" tvg-logo="https://i.postimg.cc/X7rWGrjZ/echo24.png" group-title="general",Echo24
-https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="https://i.postimg.cc/XvMcyjhK/polsatnews.png" group-title="news",Polsat News
+#EXTINF:-1 tvg-id="TOPBarca.pl" tvg-name="TOP Barca" tvg-logo="http://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="",TOP Barca
+http://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-name="Buzzfeed Unsolved" tvg-logo="http://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="",Buzzfeed Unsolved
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
+#EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24" tvg-logo="http://i.postimg.cc/X7rWGrjZ/echo24.png" group-title="general",Echo24
+http://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="http://i.postimg.cc/XvMcyjhK/polsatnews.png" group-title="news",Polsat News
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="news",Polsat News Polityka
-https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="general",Telewizja Imperium
-https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="",TV4
-https://lb2-e2-32.pluscdn.pl/ch/1502601/309/hls/84c3557b/masterlist.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="",TV Trwam
-https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="",TVS
-https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
-#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="news",Euronews
-https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
-#EXTINF:-1 tvg-id="Mango.pl" tvg-name="Mango" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="shop",Mango
-https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
-#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje" tvg-logo="https://i.postimg.cc/L6VpxnD8/tvokazje.png" group-title="",TV Okazje
-https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
-#EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="",TVT
-https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
-#EXTINF:-1 tvg-id="GramyDalej.pl" tvg-name="Gramy Dalej" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="sports",Gramy Dalej
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="news",Polsat News Polityka
+http://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="http://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="general",Telewizja Imperium
+http://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="",TV4
+http://lb2-e2-32.pluscdn.pl/ch/1502601/309/hls/84c3557b/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-logo="http://i.imgur.com/yq10wS5.png" group-title="",TV Trwam
+http://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="http://i.imgur.com/RHwlp35.png" group-title="",TVS
+http://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" tvg-logo="http://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="news",Euronews
+http://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
+#EXTINF:-1 tvg-id="Mango.pl" tvg-name="Mango" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="shop",Mango
+http://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje" tvg-logo="http://i.postimg.cc/L6VpxnD8/tvokazje.png" group-title="",TV Okazje
+http://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
+#EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="http://i.imgur.com/oZyeUzG.png" group-title="",TVT
+http://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="GramyDalej.pl" tvg-name="Gramy Dalej" tvg-logo="http://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="sports",Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://i.postimg.cc/nL72dj7w/polsat.png" group-title="general",Polsat
-https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="CafeFutbol.pl" tvg-name="Cafe Futbol" tvg-logo="https://ipla-e2-31.pluscdn.pl/p/cms_thumbnails/fk/fk9t77ceyv4osskf5jqw9w818apm2esw.jpeg" group-title="sports",Cafe Futbol
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="http://i.postimg.cc/nL72dj7w/polsat.png" group-title="general",Polsat
+http://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="CafeFutbol.pl" tvg-name="Cafe Futbol" tvg-logo="http://ipla-e2-31.pluscdn.pl/p/cms_thumbnails/fk/fk9t77ceyv4osskf5jqw9w818apm2esw.jpeg" group-title="sports",Cafe Futbol
 http://cdn-s-lb2.pluscdn.pl/lv/1517831/350/dash/e32e6046/live.mpd
